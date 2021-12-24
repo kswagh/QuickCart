@@ -2,8 +2,6 @@
 
 INSTRUCTIONS
 
-
-
 Instructions on how to run the application on the machine:
 1. Clone the repository
 2. Need to have all the basic setup needed for react native apps to run
@@ -14,16 +12,16 @@ Instructions on how to run the application on the machine:
 Note: run the app on a phone, in order to test the camera
 
 Things to check out in the app:
-Login
-Register
-Check forgot password functionality
-Search functionality
-Barcode scanning
-Increase/decrease the quantity of items
-Remove the items from the list
-Check BrainTree payment Api (sandbox)
-Check previous order details
-Check Profile Tab - Logout
+- Login
+- Register
+- Check forgot password functionality
+- Search functionality
+- Barcode scanning
+- Increase/decrease the quantity of items
+- Remove the items from the list
+- Check BrainTree payment Api (sandbox)
+- Check previous order details
+- Check Profile Tab - Logout
 
 How to navigate to the screens:
 Navigate to src/components, then check the following screens:
